@@ -74,6 +74,28 @@ bash run_five.sh nell_v4 16 8 2 0.008 0.01 demo 5 0
 
 **Remark**:  We run each experiment five times and report the mean results.
 
+## Citation
+If you find this code useful, please consider citing the following paper.
+```shell script
+@article{DBLP:journals/corr/abs-2103-03642,
+  author    = {Jiajun Chen and
+               Huarui He and
+               Feng Wu and
+               Jie Wang},
+  title     = {Topology-Aware Correlations Between Relations for Inductive Link Prediction
+               in Knowledge Graphs},
+  journal   = {CoRR},
+  volume    = {abs/2103.03642},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2103.03642},
+  archivePrefix = {arXiv},
+  eprint    = {2103.03642},
+  timestamp = {Mon, 15 Mar 2021 17:30:55 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2103-03642.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 ## Acknowledgement
 
 We refer to the code of [GraIL](https://github.com/kkteru/grail). Thanks for their contributions.
