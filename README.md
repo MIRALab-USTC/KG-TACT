@@ -26,7 +26,7 @@ Notice that, for the first time you run the code, it would take some time to sam
 ### Usage
 
 ```
-bash {run_once.sh | run_five} <dataset>  <gamma: margin in the loss function> \
+bash {run_once.sh | run_five.sh} <dataset>  <gamma: margin in the loss function> \
 <negative_sample_size> <enclosing_subgraph_hop_number> <learning_rate> <weight_decay> \ 
 <experiment_id> <max_epoch> <gpu_id> 
 ```
