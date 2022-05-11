@@ -84,15 +84,13 @@ If you find this code useful, please consider citing the following paper.
                Jie Wang},
   title     = {Topology-Aware Correlations Between Relations for Inductive Link Prediction
                in Knowledge Graphs},
-  journal   = {CoRR},
-  volume    = {abs/2103.03642},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2103.03642},
-  archivePrefix = {arXiv},
-  eprint    = {2103.03642},
-  timestamp = {Mon, 15 Mar 2021 17:30:55 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2103-03642.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  volume={35}, 
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/16779}, 
+  number={7}, 
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  year={2021}, 
+  month={May}, 
+  pages={6271-6278}
 }
 ```
 
